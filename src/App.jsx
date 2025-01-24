@@ -21,7 +21,7 @@ import APK from "./assets/app-debug.apk";
 const App = () => {
   useEffect(() => {
     AOS.init({
-      duration: 700,
+      duration: 200,
       easing: "ease-out-cubic",
     });
   }, []);
