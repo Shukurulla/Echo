@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: rgb(10, 10, 13);
+  color: #ffff;
+}
+.border {
+  border: none !important;
+  border-bottom: 1px solid #2e2e33 !important;
+}
+.gold {
+  color: #ffd700;
+}
+
+.secondary {
+  color: rgb(168, 169, 178);
+}
