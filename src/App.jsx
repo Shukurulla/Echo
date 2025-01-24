@@ -21,6 +21,7 @@ import APK from "./assets/app-debug.apk";
 const App = () => {
   useEffect(() => {
     AOS.init({
+      disable: "phone",
       duration: 700,
       easing: "ease-out-cubic",
     });
