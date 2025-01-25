@@ -11,3 +11,5 @@ export { default as Feature3 } from "./feature3.png";
 export { default as Feature4 } from "./feature4.png";
 export { default as Star } from "./star.png";
 export { default as Star2 } from "./star2.png";
+export { default as Devices } from "./devices.png";
+export { default as FooterLogo } from "./footer_logo.png";
